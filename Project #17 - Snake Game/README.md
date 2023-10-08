@@ -7,4 +7,4 @@ I am gonna showing to you how to code a snake game with javascript. this snake g
 Here i have project screenshot :
 
 
-![screenshot](result.png)
+![screenshot](result.jpg)
