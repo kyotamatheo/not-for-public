@@ -1,7 +1,7 @@
-# Project #33
+# Project #34
 
 ### Chrome Color Picker Extension
-In this tutorial, I am gonna showing to you how to code a chrome extension with javascript. i create a project that you can pick colors as a chrome extension with javascript❗️
+I am gonna showing to you how to code a chrome extension with javascript. i create a project that you can pick colors as a chrome extension with javascript❗️
 
 # Screenshot
 Here i have project screenshot :
