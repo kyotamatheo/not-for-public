@@ -3,6 +3,12 @@
 My Collection Code of JavaScript
 > This project is a lesson for me. I made this not at all wanting to take someone's work or wanting to make any profit at all. Just want to know more about javascript.
 
+## Credit by
+
+> Instagram [@mhmdfiqriii_](https://instagram.com/mhmdfiqriii_)
+
+## Special Thanks to
+> Instagram [@restaprr](https://instagram.com/restaprr)
 # Projects
 
 Here i have list of projects :
@@ -41,3 +47,6 @@ Here i have list of projects :
 33. Pong Game
 34. Chrome Color Picker Extension
 35. ASCII Donut Animation
+36. Stock Tracker App
+37. Shadow Generator
+38. Movie App
