@@ -6,3 +6,4 @@ I am gonna showing to you how to build a online text editor with javascript. thi
 # Screenshot
 Here i have project screenshot :
 
+![screenshot](result.png)
