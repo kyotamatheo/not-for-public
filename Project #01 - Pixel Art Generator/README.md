@@ -6,3 +6,4 @@ I am gonna showing to you how to build a pixel art generator project with javasc
 # Result
 Here i have project screenshot :
 
+![screenshot](result.png)
