@@ -1,15 +1,23 @@
 # Project #36
 
-
-### Movie App (TheMovieDB)
-I am gonna showing to you how to code a Movie App using JavaScript. in this project i'm using TheMovieDB api to get movies info. Also this code is fully responsive and when you scroll it will load more results❗️
+### Stock Tracker App
+I am gonna showing to you how to code a stock tracker with javascript. i create a project that you can search stock symbols and see change percentage❗️
 
 ## Warning
-You need to get your own api key and replace it in index.js file on line 1 :
+You need to get your own api key and replace it in index.js file on line 7 and 37 :
+
+##### Line 7 :
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+'https://www.alphavantage.co/query?function=SECTOR&apikey=YOUR_API_KEY'
 ```
+
+##### Line 37 :
+
+```javascript
+https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=YOUR_API_KEY
+```
+
 
 # Screenshot
 Here i have project screenshot :
