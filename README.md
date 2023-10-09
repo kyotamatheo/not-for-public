@@ -50,3 +50,10 @@ Here i have list of projects :
 36. Stock Tracker App
 37. Shadow Generator
 38. Movie App
+39. Tradingiew Budget
+40. Detect Internet Speed
+41. Currency Converter
+42. Live Code Editor
+43. Parallex Slider
+44. Minimal Weather App With Api
+45. Particles Portfolio
