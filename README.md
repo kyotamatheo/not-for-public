@@ -57,3 +57,6 @@ Here i have list of projects :
 43. Parallex Slider
 44. Minimal Weather App With Api
 45. Particles Portfolio
+46. Sudoku Solver
+47. Text Encryptor
+48. Ai Image Generator
