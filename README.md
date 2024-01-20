@@ -7,8 +7,6 @@ My Collection Code of JavaScript
 
 > Instagram [@mhmdfiqriii_](https://instagram.com/mhmdfiqriii_)
 
-## Special Thanks to
-> Instagram [@restaprr](https://instagram.com/restaprr)
 # Projects
 
 Here i have list of projects :
